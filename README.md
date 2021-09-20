@@ -1,6 +1,5 @@
 # Hi, my name is Aliyah Millán! Welcome to my GitHub! 👋
 <p align = "center">
-<img src="https://user-images.githubusercontent.com/60375020/133897470-92c9b460-e729-4456-8001-91588aeb1bab.PNG" width=20% height=20%> <img src="https://user-images.githubusercontent.com/60375020/133897486-6ca68d23-8239-45a5-b469-7509accf2176.jpg" width=13% height=13%>
 <img src="https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif?cid=ecf05e47frtoe2iq2x1yp1k2947424ne5rgci5h7s2zpc83e&rid=giphy.gif&ct=g" width=22.5% height=22.5%>
 </p>
 
