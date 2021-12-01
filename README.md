@@ -1,4 +1,4 @@
-# Hi, my name is Aliyah Millán! Welcome to my GitHub! 👋
+# Welcome to my GitHub! 👋
 <p align = "center">
 <img src="https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif?cid=ecf05e47frtoe2iq2x1yp1k2947424ne5rgci5h7s2zpc83e&rid=giphy.gif&ct=g" width=22.5% height=22.5%>
 </p>
@@ -19,7 +19,10 @@ I'm interested in any opportunities that come my way and see them as a chance to
  - Indeed: https://my.indeed.com/p/aliyahm-x67o8zw
  - Replit: https://replit.com/@AliyahMillan
  - TryHackMe: https://tryhackme.com/p/ADHDExcalibur
- - Hack The Box: AliyahMillan #480109
+ - Hack The Box: https://app.hackthebox.com/profile/480109
+ - HackerOne: https://hackerone.com/excalibur_?type=user
+ - CryptoHack: https://www.cryptohack.org/user/ADHD_Excalibur/
+ - Root Me: https://www.root-me.org/ADHDExcalibur?inc=info&lang=en
  
  
 <!--
