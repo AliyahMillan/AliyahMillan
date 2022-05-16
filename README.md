@@ -13,7 +13,7 @@ I'm interested in any opportunities that come my way and see them as a chance to
 
 
 ## 🔗 Where you can find me:
- - My personal website: https://aliyahmillanresume.notion.site/aliyahmillanresume/Meet-Aliyah-Mill-n-273f7f29d5fb4130a9d200108156e2c5
+ - My personal website: https://tinyurl.com/MillanResume
  - Email address: millan_1802@csu.fullerton.edu 📫
  - LinkedIn: https://www.linkedin.com/in/aliyah-quevedo-millan-539a3520a/ 
  - Indeed: https://my.indeed.com/p/aliyahm-x67o8zw
