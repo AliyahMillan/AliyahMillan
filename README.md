@@ -5,7 +5,7 @@
 
 ## About me:
 
-I'm a computer science major at California State University, Fullerton. I can use HTML/CSS, C++, Javascript, and Python (Python is my favourite), and am making my own website from scratch in my free time (sorry, but my website-made-from-scratch is still a work in progress, so I've provided my in-the-meantime one below).
+I'm a computer science major at California State University, Fullerton. I can use a number of programming languages, and am making my own website from scratch in my free time (sorry, but my website-made-from-scratch is still a work in progress, so I've provided my in-the-meantime one below).
 
 I recently fell in love with cybersecurity and am teaching myself however I can, using online resources like TryHackMe, Hack the Box, and whatever else I can find on the internet. I'm always open to learning new things and can always use a little more advice.
 
@@ -25,6 +25,7 @@ I'm interested in any opportunities that come my way and see them as a chance to
  - Root Me: https://www.root-me.org/ADHDExcalibur?inc=info&lang=en
  
  
+ #### ⚡ Fun fact: I am fluent in other kinds of languages, not just programming ones.
 <!--
 **AliyahMillan/AliyahMillan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
