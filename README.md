@@ -26,6 +26,19 @@ I'm interested in any opportunities that come my way and see them as a chance to
  
  
  #### ⚡ Fun fact: I am fluent in other kinds of languages, not just programming ones.
+ 
+ 
+ 
+ <details>
+  <summary>Spoiler!</summary>
+ 
+ 
+ [![Spoiler](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ?&autoplay=1)
+ 
+ 
+</details>
+
+
 <!--
 **AliyahMillan/AliyahMillan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
